@@ -1,10 +1,10 @@
 {
   "name": "webpack-angualrjs",
   "version": "1.0.0",
-  "description": "a webpack + angularjs + oclazyload web page",
+  "description": "webpack + angularjs + oclazyload",
   "author": {
-    "name": "fanqifeng",
-    "email": "18896554846@163.com"
+    "name": "renchengpeng",
+    "email": "1570692205@163.com"
   },
   "scripts": {
     "build:dev": "npm run clean:dist && npm run webpack -- --config config/webpack.dev.js --progress --profile",
@@ -59,6 +59,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fanqifeng/angular-webpack.git"
+    "url": "https://github.com/chengpengR/angular-webpack.git"
   }
 }
